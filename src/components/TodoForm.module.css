@@ -1,0 +1,28 @@
+form {
+    padding: 30px;
+    background-color: #323034;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+form input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+form button {
+    font: inherit;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border-radius: 12px;
+    margin-right: 1rem;
+    background-color: #cd853f;
+    border: 1px solid #cd853f;
+}
